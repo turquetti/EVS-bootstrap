@@ -4,9 +4,9 @@ body {
     box-sizing: border-box;
 }
 .img-slide {
-    /* background-position-y: top; */
     background-size: cover;
     background-repeat: no-repeat;
+    width: 100%;
 }
 .carousel-item {
     /* width: 100%; */
